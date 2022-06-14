@@ -12,4 +12,4 @@
 // ==/UserScript==
 
 document.getElementById("videojs-styles").remove();
-//oui c'est tout con
+//oui c'est tout
